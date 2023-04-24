@@ -1,6 +1,6 @@
 body{
     font-family: sans-serif;
-    background-image: url(../img/background.jpeg);
+    background-image: url(img/background.jpeg);
     background-size: cover;
     line-height: 1.5;
     }
@@ -11,7 +11,7 @@ body{
     }
 
     .creation{
-      background-image: url(/img/background.jpeg);
+      background-image: url(img/background.jpeg);
       background-size: cover;
       color: white;
       font-weight: bold;
