@@ -140,3 +140,17 @@ body{
     width: 21%;
   }
 }
+
+@media (max-width: 600px){
+  .style1{
+    text-align: left;
+    width: 63%;
+    vertical-align: text-top;
+  }
+
+  .price1{
+    text-align: right;
+    width: 21%;
+    vertical-align: text-top;
+  }
+}
